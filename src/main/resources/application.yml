@@ -14,6 +14,8 @@ server:
 wechat:
   mpAppId: wxd898fcb01713c658
   mpAppSecret: e9d7e3e46762266b63f71549b0a8707b
+  openAppId:
+  openAppSecret:
   mchId: 1483469312
   mchKey: C5245D70627C1F8E9964D494B0735025
   keyPath: /Users/jiangzixu/MyFile/git/sell/src/main/resources/h5.p12
