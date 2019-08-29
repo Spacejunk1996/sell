@@ -6,4 +6,4 @@ create table 'seller_info' (
 	'create_time' timestamp not null default current_timestamp comment '创建时间',
 	'update_time' timestamp not null default current_timestamp on update current_timestamp comment '修改时间',
 	primary key ('seller_id')
-) comment '卖家信息表';
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 comment '卖家信息表';
