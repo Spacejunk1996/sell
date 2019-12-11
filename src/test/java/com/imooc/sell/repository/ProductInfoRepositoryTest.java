@@ -1,6 +1,5 @@
 package com.imooc.sell.repository;
 
-import com.imooc.sell.dataobject.ProductCategory;
 import com.imooc.sell.dataobject.ProductInfo;
 import org.junit.Assert;
 import org.junit.Test;
